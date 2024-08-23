@@ -6,7 +6,7 @@ for(let i=0; i<str.length ;i++)
 	{
 const char =str[i]
 		if(charCount[char]){
-			charCount[cahr]++
+			charCount[char]++
 		}
 		else {
 			charCount[char]=1
